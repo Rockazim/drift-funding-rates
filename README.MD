@@ -11,7 +11,7 @@ The program utilizes Drift's API to:
   
 - **Fetch Funding Rates:**  
   - **Endpoint:** `GET /fundingRates?marketName=<marketSymbol>`  
-  - **Purpose:** Retrieve the last 30 days of funding rates for a given perpetual market (e.g., `SOL-PERP`).  
+  - **Purpose:** Retrieve the last 3 days of funding rates for a given perpetual market (e.g., `SOL-PERP`).  
   - **Note:** The funding rate is returned as a string and must be divided by 1e9 to obtain the actual rate.
 
 The script then:
