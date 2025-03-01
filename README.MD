@@ -39,7 +39,7 @@ The script then:
 
 ```bash
 git clone https://github.com/Rockazim/drift-funding-rates.git
-d drift-funding-rates
+cd drift-funding-rates
 ```
 2. install the required library using pip:
 
