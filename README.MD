@@ -37,10 +37,10 @@ The script then:
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/drift-funding-rate-averages.git
-   cd drift-funding-rate-averages
-    ```
+```bash
+git clone https://github.com/yourusername/drift-funding-rate-averages.git
+d drift-funding-rate-averages
+```
 2. install the required library using pip:
 
   ```bash
