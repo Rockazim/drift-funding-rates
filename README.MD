@@ -38,8 +38,8 @@ The script then:
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/drift-funding-rate-averages.git
-d drift-funding-rate-averages
+git clone https://github.com/Rockazim/drift-funding-rates.git
+d drift-funding-rates
 ```
 2. install the required library using pip:
 
